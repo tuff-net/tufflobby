@@ -1,0 +1,7 @@
+name: tufflobby
+version: '0'
+main: net.cirsius.tufflobby.TuffLobby
+api-version: '1.18'
+authors: [cirsius]
+description: axsmithing but for fabric
+website: https://tuff.ws
