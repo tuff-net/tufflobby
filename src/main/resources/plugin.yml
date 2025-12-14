@@ -1,7 +1,11 @@
 name: tufflobby
 version: '0'
 main: net.cirsius.tufflobby.TuffLobby
-api-version: '1.18'
+api-version: '1.8.8'
 authors: [cirsius]
-description: axsmithing but for fabric
+description: server picker ui
 website: https://tuff.ws
+commands:
+  tufflobbyreload:
+    description: reloads config
+    usage: /tufflobbyreload

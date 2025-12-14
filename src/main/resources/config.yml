@@ -1,0 +1,12 @@
+gui:
+  title: "§c§lServer Picker"
+  player-count-format: "§r§cPlayers Online: "
+  leave-button-name: "§4§lLeave"
+  leave-kick-message: "§c§lblud left"
+
+servers:
+  survival:
+    name: "§a§lSurvival"
+    material: "GRASS"
+    server: "survival"
+    slot: 0
